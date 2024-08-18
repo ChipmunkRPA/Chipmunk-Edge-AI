@@ -1,4 +1,4 @@
-###The 100% Local and Self-managed LLM GenAI Solution That Can Run on Almost Any Machine (No Internet Is Required) - Proudly Made Free by Chipmunk
+The 100% Local and Self-managed LLM GenAI Solution That Can Run on Almost Any Machine (No Internet Is Required) - Proudly Made Free by Chipmunk
 
 I used not to believe in open-source GenAI LLM models because I don’t believe they can ever catch up to the closed-source models OpenAI and Anthropic own. I was wrong. 
 
