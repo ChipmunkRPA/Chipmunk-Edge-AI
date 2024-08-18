@@ -1,3 +1,5 @@
+###The 100% Local and Self-managed LLM GenAI Solution That Can Run on Almost Any Machine (No Internet Is Required) - Proudly Made Free by Chipmunk
+
 I used not to believe in open-source GenAI LLM models because I don’t believe they can ever catch up to the closed-source models OpenAI and Anthropic own. I was wrong. 
 
 Three companies blow up my mind with their open-source GenAI LLM model performance and offerings. Namely, the almighty Google with its Gemini collection, the unstoppable Meta with its llama 3 series, and Europe’s hope in the race of AI - Mistral. A few weeks ago (on the last day of July 2024), Google open-sourced and launched its smallest model within the Gemini family - Gemma 2 2B. Not only does the model run on almost virtually any device, given its extremely lightweight 2-billion parameters, but it outperforms ChatGPT 3.5 on multiple fronts!
